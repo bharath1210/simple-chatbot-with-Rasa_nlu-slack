@@ -38,9 +38,6 @@ The process of running the interactive session is very similar to training the R
 5. Provide the url: https://your_ngrok_url/webhooks/slack/webhook to 'Event Subscriptions' page of the slack configuration.  
 6. Talk to you bot.  
 
-
-Latest code update: 01/03/2019
-
 Latest compatible Rasa NLU version: 0.14.4
 Latest compatible Rasa Core version: 0.13.2
 
